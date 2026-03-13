@@ -19,7 +19,7 @@ Use this wordlist with your preferred security testing tools or manual testing a
 
 ## Disclaimer
 
-This wordlist is intended for **authorized security testing only**. Unauthorized access to computer systems is illegal. Always obtain proper authorization before testing.
+Unauthorized access to computer systems is illegal. Always obtain proper authorization before testing.
 
 ____
 
